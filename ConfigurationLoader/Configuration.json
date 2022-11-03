@@ -1,0 +1,126 @@
+{
+    "customers": [
+        {
+            "key": "bsh",
+            "name": "BSH",
+            "longName": "BSH Hausgeräte GmbH"
+        },
+        {
+            "key": "mri",
+            "name": "MRI",
+            "longName": "Klinikum rechts der Isar"
+        },
+        {
+            "key": "equ",
+            "name": "Equinux"
+        },
+        {
+            "key": "net",
+            "name": "Netlight"
+        },
+        {
+            "key": "sz",
+            "name": "Suddeutsche Zeitung"
+        },
+        {
+            "key": "qm",
+            "name": "Quartett Mobile"
+        },
+        {
+            "key": "zm",
+            "name": "Zeiss Medical"
+        },
+        {
+            "key": "zsc",
+            "name": "Zeiss Software Campus"
+        },
+        {
+            "key": "iabg",
+            "name": "IABG",
+            "longName": "Industrieanlagen-Betriebsgesellschaft mbH"
+        },
+        {
+            "key": "msg",
+            "name": "MSG",
+            "longName": "msg systems ag"
+        },
+        {
+            "key": "ea",
+            "name": "Eisenführ Speiser",
+        },
+        {
+            "key": "sap",
+            "name": "SAP"
+        }
+    ],
+    "courses": [
+        {
+            "key": "2122",
+            "projects": [
+                {
+                    "key": "bsh",
+                    "name": "Secret Garden"
+                },
+                {
+                    "key": "equ",
+                    "name": "MailChampion"
+                },
+                {
+                    "key": "mri",
+                    "name": "Telemonitoring"
+                },
+                {
+                    "key": "net",
+                    "name": "EdgeUp"
+                },
+                {
+                    "key": "sz",
+                    "name": "AutoPlay"
+                },
+                {
+                    "key": "qm",
+                    "name": "Alfred"
+                },
+                {
+                    "key": "zm",
+                    "name": "InSight"
+                }
+            ]
+        },
+        {
+            "key": "22",
+            "projects": [
+                {
+                    "key": "bsh"
+                },
+                {
+                    "key": "ea"
+                },
+                {
+                    "key": "iabg"
+                },
+                {
+                    "key": "sap"
+                },
+                {
+                    "key": "mri"
+                },
+                {
+                    "key": "qm"
+                },
+                {
+                    "key": "zm"
+                },
+                {
+                    "key": "zsc"
+                },
+                {
+                    "key": "msg"
+                },
+                {
+                    "key": "net"
+                }
+            ]
+        }
+    ]
+}

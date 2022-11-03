@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  HallOfFame
+
+  Created by Andreas Pfurtscheller on 03.11.21.
+  
+*/
+
+"auth.form.title" = "Hall Of Fame";
+"auth.form.subtitle" = "iPraktikum";
+"auth.form.username" = "Username";
+"auth.form.password" = "Password";
+"auth.form.login" = "Login";
+"auth.form.hint" = "Log in using your confluence credentials";
+"auth.form.error" = "Error while trying to sign in";
+"auth.form.confluenceLink" = "Go to confluence";
+
+"project.stakeholder.customers" = "Customers %d";
+"project.stakeholder.projectLead" = "Project Lead %d";
+"project.stakeholder.coaches" = "Coach %d";
+"project.stakeholder.developers" = "Developers %d";
+
+"project.load.error" = "Could not load project 🤕";
+"project.load.reload" = "Reload";
+"project.empty" = "No projects available 🤷";
+
+"app.menu.title" = "Select a Project";
+"app.menu.course" = "Course";
+"app.menu.course.label" = "iPraktikum %@";
+"app.menu.logout" = "Logout";
